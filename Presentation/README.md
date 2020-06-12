@@ -5,5 +5,5 @@ I have taken into consideration the brainstorming sessions, user flows, user per
 
 Presentation : <a href="">Zoofari</a>
 
-<a href="https://drive.google.com/file/d/1ebVkbj713BYjr1pQKy8SNrEwCx_G2S3b/view?usp=sharing">Video link of high level prototype design</a> to view the video file of complete VR application
+<a href="https://drive.google.com/file/d/1ebVkbj713BYjr1pQKy8SNrEwCx_G2S3b/view?usp=sharing">Video link of high level prototype design</a> 
 
