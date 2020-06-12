@@ -2,6 +2,7 @@
 
 I have created wireframes using Figma Tool. 
 The wireframes are connected to each other and I have added links in the buttons for the connections.
+
 <a href="working-mock/PDF wireframes.pdf">Click Here</a> to download the pdf of wireframes.
 
 <a href="working-mock/Zoofari Wireframing.png">Click Here</a> to download the consolidated png file of wireframes.
