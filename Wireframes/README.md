@@ -15,7 +15,7 @@ Note : You need to download the pdf in order to access the button click events.
 
 **Selection Screen wireframe**
 
-<img src="mock-images/image2 Screen.PNG">
+<img src="mock-images/image2.PNG">
 
 **Entrance Screen wireframe**
 
