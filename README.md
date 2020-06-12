@@ -7,6 +7,8 @@ I have created a Virtual Reality application of a Zoo using Figma as a wireframi
 
 <a href="/High-Fidelity-Prototype">Click Here</a> to view the Prototype.
 
+<a href="https://drive.google.com/file/d/1ebVkbj713BYjr1pQKy8SNrEwCx_G2S3b/view?usp=sharing">Click Here</a> to view the video file of the prototype
+
 <a href="/Presentation">Click Here</a> to view the working presentation of complete application.
 
 **Overview**
